@@ -4,7 +4,7 @@ pipeline {
 
     agent {
         docker {
-            image 'node'
+            image 'openjdk:7-jdk-alpine'
             args '-u root'
         }
     }
