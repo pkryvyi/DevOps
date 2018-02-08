@@ -6,6 +6,6 @@
    <maven.compiler.target>1.6</maven.compiler.target>
    </properties>
     <groupId>myappp</groupId>
-  <artifactId>my-app2233</artifactId>
+  <artifactId>my-app22</artifactId>
   <version>1</version>
 </project>
