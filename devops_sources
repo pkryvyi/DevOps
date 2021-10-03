@@ -2,3 +2,4 @@ Bookmark file for reference notes for Certified Kubernetes Application Developer
 List of tools for code review engineers - https://github.com/codacy/tools-for-code-review-engineers
 Kubectl Cheat Sheet for Kubernetes Admins & CKA Exam Prep - https://computingforgeeks.com/kubectl-cheat-sheet-for-kubernetes-cka-exam-prep/
 A kubectl plugin that controls multiple pods simultaneously using Tmux - https://github.com/predatorray/kubectl-tmux-exec
+K8s moniroting - https://github.com/oslabs-beta/kubermetrics
