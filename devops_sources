@@ -4,3 +4,4 @@ Kubectl Cheat Sheet for Kubernetes Admins & CKA Exam Prep - https://computingfor
 A kubectl plugin that controls multiple pods simultaneously using Tmux - https://github.com/predatorray/kubectl-tmux-exec
 K8s moniroting - https://github.com/oslabs-beta/kubermetrics
 Certified Kubernetes Application Developer (CKAD) Crash Course - https://github.com/bmuschko/ckad-crash-course/tree/master/exercises
+Certified Kubernetes Amdin (CKA) Crash Course - https://github.com/bmuschko/cka-crash-course
