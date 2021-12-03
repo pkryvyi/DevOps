@@ -5,3 +5,5 @@ A kubectl plugin that controls multiple pods simultaneously using Tmux - https:/
 K8s moniroting - https://github.com/oslabs-beta/kubermetrics
 Certified Kubernetes Application Developer (CKAD) Crash Course - https://github.com/bmuschko/ckad-crash-course/tree/master/exercises
 Certified Kubernetes Amdin (CKA) Crash Course - https://github.com/bmuschko/cka-crash-course
+Lightweight Kubernetes prototyping and monitoring tool - https://github.com/oslabs-beta/Privateer
+Kr8s is app to monitor and visualize Kubernetes clusters in a user friendly GUI - https://github.com/oslabs-beta/kr8s
